@@ -1,6 +1,6 @@
 # Akciğer Kolon Kanseri
 
-ℹ️ Dersin Kodu: YAZ20411
+ℹ️ Dersin Kodu: "https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr"
 
 ℹ️ Dersin Adı: DERİN ÖĞRENME
 
