@@ -12,8 +12,8 @@
 | Öğrenci No | Ad Soyad          | Bölüm   | Proje Grup No | Grup Üyelerinin GitHub Profilleri                  |
 |------------|-------------------|---------|---------------|---------------------------------------------------|
 | 1180505804     | İrem AKDENİZ  | Yazılım Mühendisliği | 20 | [iremakdeniz](https://github.com/iremakdeniz)     |
-| 1200505071     | Elçin KARADENİZ | Yazılım Mühendisliği   | 20 | [aysekaya](https://github.com/aysekaya)           |
-| 1190505025     | Çağla ÖZAY      | Yazılım Mühendisliği    | 20 | [mehmetdemir](https://github.com/mehmetdemir)     |
+| 1200505071     | Elçin KARADENİZ | Yazılım Mühendisliği   | 20 | [elcinkaradeniz](https://github.com/aysekaya)           |
+| 1190505025     | Çağla ÖZAY      | Yazılım Mühendisliği    | 20 | [caglaozay](https://github.com/mehmetdemir)     |
 
 ---
 
