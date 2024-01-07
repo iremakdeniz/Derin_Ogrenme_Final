@@ -1,13 +1,13 @@
-# Akciğer Kolon Kanseri
+# Akciğer Kolon Kanseri Hastalıkları
 
-ℹ️ Dersin Kodu: [YAZ20411](https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr)
+:information_source: **Dersin Kodu:** [YAZ20411](https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr)
 
-ℹ️ Dersin Adı: [DERİN ÖĞRENME](https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr)
+:information_source: **Dersin Adı:** [DERİN ÖĞRENME](https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr)
 
-ℹ️ Dersin Öğretim Elemanı: Öğr. Gör. Dr. Fatih BAL [Github](https://github.com/balfatih) | [Web Sayfası](https://balfatih.github.io/)
+:information_source: **Dersin Öğretim Elemanı:** Öğr. Gör. Dr. Fatih BAL [Github](https://github.com/balfatih) | [Web Sayfası](https://balfatih.github.io/)
 
 ---
-# Grup Bilgileri
+## Grup Bilgileri
 
 | Öğrenci No | Ad Soyad          | Bölüm   | Proje Grup No | Grup Üyelerinin GitHub Profilleri                  |
 |------------|-------------------|---------|---------------|---------------------------------------------------|
@@ -17,31 +17,31 @@
 
 ---
 
-# Proje Bilgileri
+## Proje Bilgileri
 
 
 ---
 
-# Proje Dosya Yapısı
+## Proje Dosya Yapısı
 
 
 ---
 
-# Kurulum
+## Kurulum
 
 
 ---
 
 
-# Kullanım
+## Kullanım
 
 
 ---
 
-# Katkılar
+## Katkılar
 
 
 
 ---
 
-# İletişim 
+## İletişim 
