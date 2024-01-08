@@ -19,9 +19,9 @@
 
 ## Proje Bilgileri
 
-Projede Veri_Seti_3(SağlıkAlanı –Akciğer Kolon KanseriHastalıklarına Ait Görüntüler) kullanılarak geliştirilmiştir.Veri setinde akciğer kolon hastalık türlerine ait görüntüler yer almaktadır.
+Projede Veri_Seti_3(SağlıkAlanı –Akciğer Kolon Kanseri Hastalıklarına Ait Görüntüler) kullanılarak geliştirilmiştir.Veri setinde akciğer kolon hastalık türlerine ait görüntüler yer almaktadır.
 Zatürre hastalığının viral mi yoksa bakteriyel mi olduğuna dair görüntüler bulunmaktadır. 
-AkcigerVeriSeti.ipynb veriler %70-%30 olarak ayrılmıştır.Sequential model ile Keras kütüphanesi kullanılarak geliştirilmiştir.Proje Conv2D kullanılarak evrişim katmanı,MaxPooling2D örnekleme katmanı,Flatten,Dense yapıları ile oluşturulmuştur. 
+Veriler %70-%30 olarak ayrılmıştır.Sequential model ile Keras kütüphanesi kullanılarak geliştirilmiştir.Proje Conv2D kullanılarak evrişim katmanı,MaxPooling2D örnekleme katmanı,Flatten,Dense yapıları ile oluşturulmuştur.Transfer Learning ve Hiperparametre Optimizasyonu uygulanmıştır. 
 Accuracy model kullanılmıştır.
 Yapay_Sinir_Ağı.ipynb verilerinde Sequential model ile Keras kütüphanesi kullanılarak geliştirilmiştir.Proje Conv2D kullanılarak evrişim katmanı,MaxPooling2D örnekleme katmanı,Flatten,Dense yapıları ile oluşturulmuştur.
 
@@ -49,13 +49,28 @@ Colab Notebook'a giriş yapılır.
 Dosya/Yeni not defteri oluşturulur.
 Oluşturulan not defteri Dosya/Drive'da bul ile ilgili dosyalara erişilir.
 
+## Gereksinimler
+- Python 3.7 veya üzeri
+
+- Sklearn, TensorFlow gibi derin öğrenme kütüphaneleri
+
+- Google Colab
+
+- Veri kümesi
+
 ## Katkılar
 
 https://chat.openai.com/
 
 https://stackoverflow.com/
 
-https://github.com/balfatih/YAZ20411_Derin_Ogrenme/commits?author=balfatih
+https://github.com/balfatih/YAZ20411_Derin_Ogrenme/
+
+https://www.youtube.com/
+
+https://medium.com/
+
+https://github.com/
 
 
 ## İletişim 
