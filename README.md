@@ -27,13 +27,13 @@ Yapay_Sinir_Ağı.ipynb verilerinde Sequential model ile Keras kütüphanesi kul
 
 ## Proje Dosya Yapısı
 
-Derin_Ogrenme_Final/
+- Derin_Ogrenme_Final/
 
-AkcigerVeriSeti.ipynb
+   - AkcigerVeriSeti.ipynb
 
-README.md
+   - README.md
 
-Yapay_Sinir_Ağı.ipynb
+   - Yapay_Sinir_Ağı.ipynb
 
 ## Kurulum
 
